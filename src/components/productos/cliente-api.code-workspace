@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../restapis"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "c:\\Users\\bakai\\Desktop\\Curso NodeJs\\cliente-api"
+	}
+}
