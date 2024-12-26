@@ -1,7 +1,8 @@
 import axios from "axios";
+import 'dotenv/config';
 
 const clienteAxios = axios.create({
-    baseURL: 'http://localhost:4000'
+    baseURL: process.env.BACKEND_URL
 });
 
 export default clienteAxios;
